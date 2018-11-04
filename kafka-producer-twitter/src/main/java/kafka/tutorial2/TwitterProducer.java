@@ -29,7 +29,7 @@ public class TwitterProducer {
     String consumerSecret = "K64XU6V7bWufP5dNvJTWcRs6P3P3BobndrVhmlrxpRtVDgnzcY";
     String token = "29465706-yUDto0pDOVhsa4Xo8WCfIMb9XLT1tDKAO0BkXn0B9";
     String secret = "2iQXmtTDOEYk7GNlrgx4ngZcNzvhJEh4MzOIDfbRq2HiZ";
-    List<String> terms = Lists.newArrayList("bitcoin", "usa", "politics", "sport", "soccer");
+    List<String> terms = Lists.newArrayList("kimchi");
 
     public TwitterProducer(){
 
